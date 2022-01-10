@@ -70,7 +70,7 @@ export const dataStories = [
     person: "Jack Wilson",
     title: "WOW! My life is completely different now",
     caption:
-      "Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.",
+      "Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line. Reprehenderit distinctio inventore eveniet facilis consequatur.",
     photo: require("../assets/img/nat-9.jpg"),
     photoSmall: require("../assets/img/nat-9-small.jpg"),
   },
